@@ -1,7 +1,8 @@
 # AulaAsyncAwaitTryCatch 
 
-### professor: Jansen K Cara 
-### Turma: DS1A Aluno: Vinicius Andrade Oliveira
+#### professor: Jansen K Cara 
+#### Turma: DS1A 
+#### Aluno: Vinicius Andrade Oliveira
 
 ## Objetivo
 Desenvolver o nosso conhecimento de JavaScript.
